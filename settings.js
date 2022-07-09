@@ -55,8 +55,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['923474187615'] //ur owner number
-global.ownername = "𓊈𒆜 👹Ꮆ卄𝔬sт Ｒｉｄｅｒ꧁💚♦ 𒆜𓊉꧂" //ur owner name
-global.ytname = "꧁𓊈𒆜 👹Ꮆ卄𝔬sт Ｒｉｄｅｒ꧁💚♦ 𒆜𓊉꧂" //ur yt chanel name
+global.ownername = "𓊈𒆜 💙𝐒𝐖𝐄𝐄𝐓 𝐁𝐎𝐘꧁💚♦ 𒆜𓊉꧂" //ur owner name
+global.ytname = "꧁𓊈𒆜 💙𝐒𝐖𝐄𝐄𝐓 𝐁𝐎𝐘💚♦ 𒆜𓊉꧂" //ur yt chanel name
 global.socialm = "GitHub: DARK-ASIF" //ur github or insta name
 global.location = "Pakistan, New Caledonia" //ur location
 
@@ -67,10 +67,10 @@ global.botname = 'Eliza Bot' //ur bot name
 global.linkz = "https://wa.me/+923474187615" //your theme url which will be displayed on whatsapp
 global.websitex = "https://wa.me/+923474187615" //ur website to be displayed
 global.botscript = 'https://github.com/DARK-ASIF' //script link
-global.reactmoji = "🫣" //ur menu react emoji
+global.reactmoji = "🐦" //ur menu react emoji
 global.themeemoji = "☃️" //ur theme emoji
-global.packname = "Eliza Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🍿💛🤤💛 " //ur sticker watermark packname
-global.author = "𓊈𒆜 👹Ꮆ卄𝔬sт Ｒｉｄｅｒ꧁💚♦ 𒆜𓊉꧂" //ur sticker watermark author
+global.packname = "Eliza Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🍿💛🤤💛hot boy " //ur sticker watermark packname
+global.author = "𓊈𒆜💙𝐒𝐖𝐄𝐄𝐓 𝐁𝐎𝐘꧁💚♦ 𒆜𓊉꧂" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
