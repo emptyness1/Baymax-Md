@@ -3224,12 +3224,12 @@ for (let i of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'YouTube 🍓',
+displayText: 'SUPPORT GROUP',
 url: `${global.websitex}`
 }
 }, {
 urlButton: {
-displayText: 'Script 🍜',
+displayText: 'Instagram',
 url: `${global.botscript}`
 }
 }, {
@@ -3265,12 +3265,12 @@ for (let yoi of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'YouTube 🍓',
+displayText: 'SUPPORT GROUP',
 url: `${global.websitex}`
 }
 }, {
 urlButton: {
-displayText: 'Script 🍜',
+displayText: 'Instagram',
 url: `${global.botscript}`
 }
 }, {
@@ -3307,12 +3307,12 @@ if (!isCreator) return replay(mess.owner)
                     await sleep(1500)
                     let butoon = [{
                                 urlButton: {
-                                displayText: 'YouTube 🍓',
+                                displayText: 'SUPPURT GROUP',
 url: `${global.websitex}`
                                 }
                             }, {
 urlButton: {
-displayText: 'Script 🍜',
+displayText: 'Instagram',
 url: `${global.botscript}`
 }
 }, {
@@ -8764,12 +8764,12 @@ footer: `${botname}`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
-title:"No need 🥺💚🐣",
+title:"@⁨ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×⁩",
 body: "Click to see", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://i.ibb.co/0CnGKC9/f133a7d024ab26cc611ce6496047288c.jpg',
-sourceUrl: "https://i.ibb.co/0CnGKC9/f133a7d024ab26cc611ce6496047288c.jpg"
+mediaUrl: 'https://wa.me/+263780699988',
+sourceUrl: "https://wa.me/+263780699988"
 }}
 }
 XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
@@ -8819,7 +8819,7 @@ XeonBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key 
                         } else if (setbot.templateDocument) {
                         let buttonmenu = [
         	{ urlButton: { displayText: `Contact 🍿`, url : `${websitex}` } },
-            { urlButton: { displayText: `Script 🍜`, url: `${botscript}` } },
+            { urlButton: { displayText: `Instagram`, url: `${botscript}` } },
             { quickReplyButton: { displayText: `All Menu 🍱`, id: 'allmenu'} },
             { quickReplyButton: { displayText: `List Menu 🍢`, id: 'command'} },
             { quickReplyButton: { displayText: `Owner 🐣`, id: 'owner'} }
@@ -9708,7 +9708,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝙊𝙒𝙉𝙀𝙍◉ �
 ┊${prefix}donate
 ┊${prefix}request
 ┊${prefix}report [bug]
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'rpgmenu':
 	   if (isBan) return reply(mess.ban)
@@ -9726,7 +9726,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝙍𝙋𝙂◉  〕
 ┊${prefix}profile
 ┊${prefix}inventory
 ┊${prefix}leaderboard
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'makermenu':
 	   if (isBan) return reply(mess.ban)
@@ -9836,7 +9836,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝙈𝘼𝙆𝙀𝙍◉  
 ┊${prefix}halloween
 ┊${prefix}watercolor
 ┊${prefix}classic
-└───────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'downloadmenu':
 	   if (isBan) return reply(mess.ban)
@@ -9888,7 +9888,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝘿𝙊𝙒𝙉𝙇𝙊�
 ┊${prefix}wattpad [query]
 ┊${prefix}mcserver [ip|port]
 ┊${prefix}drakor [query]
-└──────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└──────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'searchmenu':
 	   if (isBan) return reply(mess.ban)
@@ -9921,7 +9921,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝙎𝙀𝘼𝙍𝘾𝙃�
 ┊${prefix}wattpad [query]
 ┊${prefix}mcserver [ip|port]
 ┊${prefix}drakor [query]
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'convertmenu':
 	   if (isBan) return reply(mess.ban)
@@ -9956,7 +9956,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝘾𝙊𝙉𝙑𝙀𝙍�
 ┊${prefix}robot [reply aud]
 ┊${prefix}slow [reply aud]
 ┊${prefix}squirrel [reply aud]
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'randomimagemenu':
 	   if (isBan) return reply(mess.ban)
@@ -9975,7 +9975,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝙍𝘼𝙉𝘿𝙊𝙈 
 ┊${prefix}wallcode
 ┊${prefix}animewall [query]
 ┊${prefix}animewall2 [query]
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 
 case 'emotemenu':
@@ -9995,7 +9995,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝙀𝙈𝙊𝙏𝙀◉  
 ┊${prefix}googleemoji
 ┊${prefix}pediaemoji
 ┊${prefix}microsoftemoji
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'imageeffectmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10016,7 +10016,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝙄𝙈𝙂 𝙀𝙁𝙁
 ┊${prefix}beautifuleffect
 ┊${prefix}deleteeffect
 ┊${prefix}pixelate
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'animemenu':
 	   if (isBan) return reply(mess.ban)
@@ -10071,7 +10071,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝘼𝙉𝙄𝙈𝙀◉  
 ┊${prefix}animemegumin
 ┊${prefix}smug2
 ┊${prefix}couplepp
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'stickermenu':
 	   if (isBan) return reply(mess.ban)
@@ -10085,7 +10085,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝙎𝙏𝙄𝘾𝙆𝙀�
 ┊${prefix}ttp
 ┊${prefix}doge
 ┊${prefix}lovesticker
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'animestickermenu':
 	   if (isBan) return reply(mess.ban)
@@ -10121,7 +10121,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝘼𝙉𝙄𝙈𝙀 𝙎
 ┊${prefix}cringe
 ┊${prefix}neko
 ┊${prefix}gura
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'nsfwmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10153,7 +10153,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝙉𝙎𝙁𝙒◉  〕
 ┊${prefix}spank
 ┊${prefix}hneko
 ┊${prefix}nwaifu
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'funmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10224,7 +10224,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝙁𝙐𝙉◉  〕
 ┊${prefix}playboy
 ┊${prefix}fuckgirl
 ┊${prefix}playgirl
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'soundmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10392,7 +10392,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝙎𝙊𝙐𝙉𝘿◉  
 ┊${prefix}sound159
 ┊${prefix}sound160
 ┊${prefix}sound161
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'gamemenu':
 	   if (isBan) return reply(mess.ban)
@@ -10406,7 +10406,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝙂𝘼𝙈𝙀◉  〕
 ┊${prefix}guess [option]
 ┊${prefix}math [mode]
 ┊${prefix}suitpvp [tag]
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'anonymousmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10417,7 +10417,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝘼𝙉𝙊𝙉𝙔𝙈�
 ┊${prefix}start
 ┊${prefix}next
 ┊${prefix}leave
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'toolmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10427,7 +10427,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝙏𝙊𝙊𝙇◉  〕
 ┊${prefix}translate [text]
 ┊${prefix}fliptext [text]
 ┊${prefix}toletter [number]
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'databasemenu':
 	   if (isBan) return reply(mess.ban)
@@ -10442,7 +10442,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝘿𝘼𝙏𝘼𝘽𝘼�
 ┊${prefix}listmsg
 ┊${prefix}getmsg
 ┊${prefix}delmsg
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'indomenu':
 	   if (isBan) return reply(mess.ban)
@@ -10473,7 +10473,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝙄𝙉𝘿𝙊◉  〕
 ┊${prefix}covidindo
 ┊${prefix}earthquake
 ┊${prefix}tvschedule
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'indohoroscopemenu':
 	   if (isBan) return reply(mess.ban)
@@ -10510,7 +10510,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝙄𝙉𝘿𝙊 𝙃𝙎
 ┊${prefix}masasubur
 ┊${prefix}zodiak
 ┊${prefix}shio
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'othermenu':
 	   if (isBan) return reply(mess.ban)
@@ -10535,7 +10535,7 @@ await XeonBotInc.send5ButImg(from, `┌───〔 ◉𝙊𝙏𝙃𝙀𝙍◉  
 ┊${prefix}donate
 ┊${prefix}request
 ┊${prefix}report [bug]
-└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
+└───────────────●` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "Contact","url": `${websitex}`}},{"urlButton": {"displayText": "Instagram","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
 case 'tqtt': 
 	   if (isBan) return reply(mess.ban)
@@ -10549,10 +10549,10 @@ _¶¶¶¶ ❤️ ❤️
 ───◉⚀⚀⚀────⚀⚀⚀◉ ─◉⚀██████◉..◉██████⚀◉ ◉⚀████████.◉.████████⚀◉ ◉⚀██████████████████⚀◉ ─◉⚀████████████████⚀◉ ──◉⚀██████████████⚀◉ ────◉⚀██████████⚀◉ ──────◉⚀██████⚀◉ ───────◉⚀████⚀◉ ────────◉⚀██⚀
    💞💞💞💞💞Kiss💞💞💞💞💞
  «:::»💗«:::»💗«:::»💗«:::»💗«:::»💗«:::»
-ALLAH
-Asif (Me)
+ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×⁩ (Me)
 Drips
 𓊈𒆜 👹Ꮆ卄𝔬sт Ｒｉｄｅｒ꧁💚♦ 𒆜𓊉꧂
+
 My family
 And all friends who helped assemble this sexy script !!!`)
 break
