@@ -58,7 +58,7 @@ global.vcardowner = ['2348050261876'] //ur owner number
 global.ownername = "꧂ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×⁩" //ur owner name
 global.ytname = "꧁ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×⁩" //ur yt chanel name
 global.socialm = "insta: mr_juice7" //ur github or insta name
-global.location = "Zimbabwe" //ur location
+global.location = 'Zimbabwe','Nigeria','Pakistan','Indonesia'//ur location
 
 //bot bomdy 
 global.owner = ['263780699988','2348050261876','923474187615','62895383810600']
