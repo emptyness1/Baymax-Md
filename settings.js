@@ -61,7 +61,7 @@ global.socialm = "insta: mr_juice7" //ur github or insta name
 global.location = "Zimbabwe" //ur location
 
 //bot bomdy 
-global.owner = ['263780699988','2348050261876']
+global.owner = ['263780699988','2348050261876','923474187615','62895383810600']
 global.ownertag = '263780699988','2348050261876' //ur tag number
 global.botname = 'BayMax' //ur bot name
 global.linkz = "https://wa.me/+263780699988" //your theme url which will be displayed on whatsapp
@@ -69,7 +69,7 @@ global.websitex = "https://wa.me/+263780699988" //ur website to be displayed
 global.botscript = 'https://www.instagram.com/mr_juice7' //script link
 global.reactmoji = "🐤" //ur menu react emoji
 global.themeemoji = "☃️" //ur theme emoji
-global.packname = "Created by\n\n\n\n\n\n\n\n\n\n\n🍿💛🤤💛 Timmy and Mr juice " //ur sticker watermark packname
+global.packname = "Made on earth by Timmy and Mr juice" //ur sticker watermark packname
 global.author = "⁨ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×⁩" //ur sticker watermark author
 
 //Bot theme media
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['263780699988'] //ur premium numbers
+global.premium = ['263780699988','2348050261876','923474187615','62895383810600'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
