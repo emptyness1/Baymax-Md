@@ -54,7 +54,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['923474187615'] //ur owner number
+global.vcardowner = ['2348050261876'] //ur owner number
 global.ownername = "꧂ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×⁩" //ur owner name
 global.ytname = "꧁ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×⁩" //ur yt chanel name
 global.socialm = "insta: mr_juice7" //ur github or insta name
@@ -69,7 +69,7 @@ global.websitex = "https://wa.me/+263780699988" //ur website to be displayed
 global.botscript = 'https://www.instagram.com/mr_juice7' //script link
 global.reactmoji = "🐤" //ur menu react emoji
 global.themeemoji = "☃️" //ur theme emoji
-global.packname = "Created by\n\n\n\n\n\n\n\n\n\n\n🍿💛🤤💛hot boy " //ur sticker watermark packname
+global.packname = "Created by\n\n\n\n\n\n\n\n\n\n\n🍿💛🤤💛 Timmy and Mr juice " //ur sticker watermark packname
 global.author = "⁨ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×⁩" //ur sticker watermark author
 
 //Bot theme media
