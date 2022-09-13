@@ -36,9 +36,9 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['2348050261876'] //ur owner number
-global.ownername = "꧂ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×⁩" //ur owner name
-global.ytname = "꧁ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×⁩" //ur yt chanel name
+global.vcardowner = ['27729378630'] //ur owner number
+global.ownername = "**Empty~Sama**⁩" //ur owner name
+global.ytname = "**Empty~Sama**" //ur yt chanel name
 global.socialm = "insta: mr_juice7" //ur github or insta name
-global.location = 'Zimbabwe','Nigeria','Pakistan','Indonesia'//ur location
+global.location = 'South Africa'//ur location
 
 //bot bomdy 
-global.owner = ['263780699988','2348050261876','923474187615','62895383810600']
-global.ownertag = '263780699988','2348050261876' //ur tag number
+global.owner = ['27729378630']
+global.ownertag = '27729378630' //ur tag number
 global.botname = 'BayMax' //ur bot name
 global.linkz = "https://wa.me/+263780699988" //your theme url which will be displayed on whatsapp
 global.websitex = "https://wa.me/+263780699988" //ur website to be displayed
 global.botscript = 'https://www.instagram.com/mr_juice7' //script link
 global.reactmoji = "🐤" //ur menu react emoji
 global.themeemoji = "☃️" //ur theme emoji
-global.packname = "Made on earth by Timmy and Mr juice" //ur sticker watermark packname
-global.author = "⁨ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×⁩" //ur sticker watermark author
+global.packname = "Here you go" //ur sticker watermark packname
+global.author = "⁨**Empty~Sama**" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['263780699988','2348050261876','923474187615','62895383810600'] //ur premium numbers
+global.premium = ['27729378630'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -112,7 +112,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
+    wait: 'Chotto Matte...',
     linkm: 'Where is the link?',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
