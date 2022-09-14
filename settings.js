@@ -54,20 +54,20 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['27729378630'] //ur owner number
-global.ownername = "**Empty~Sama**⁩" //ur owner name
+global.vcardowner = ['27729378630,27684323860'] //ur owner number
+global.ownername = "**Empty~Sama**⁩,Dracula" //ur owner name
 global.ytname = "**Empty~Sama**" //ur yt chanel name
 global.socialm = "insta: mr_juice7" //ur github or insta name
 global.location = 'South Africa'//ur location
 
 //bot bomdy 
 global.owner = ['27729378630']
-global.ownertag = '27729378630' //ur tag number
+global.ownertag = '27729378630,2768' //ur tag number
 global.botname = 'BayMax' //ur bot name
-global.linkz = "https://wa.me/+263780699988" //your theme url which will be displayed on whatsapp
+global.linkz = "https://wa.me/+2637806999884323860" //your theme url which will be displayed on whatsapp
 global.websitex = "https://wa.me/+263780699988" //ur website to be displayed
 global.botscript = 'https://www.instagram.com/mr_juice7' //script link
-global.reactmoji = "🐤" //ur menu react emoji
+global.reactmoji = "✨" //ur menu react emoji
 global.themeemoji = "☃️" //ur theme emoji
 global.packname = "Here you go" //ur sticker watermark packname
 global.author = "⁨**Empty~Sama**" //ur sticker watermark author
